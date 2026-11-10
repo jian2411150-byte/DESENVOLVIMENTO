@@ -7,3 +7,9 @@
 4\. ID incorreto em `getElementById("lista-aluno")`, pois no HTML está definido como `"lista-alunos"`.
 
 5\. Erro de escrita no método `appendchild`, que deveria ser `appendChild`, com C maiúsculo.
+
+Fernando Toyonaga
+Igor de Oliveria Souza
+Gabriel Toitiro
+Guilherme Almeida Pires
+Jian Lopes Carneiro
